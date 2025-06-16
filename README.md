@@ -24,7 +24,7 @@
 ## 📫 Entre em contato comigo
 
 - ✉️ Email: paulopocas20@gmail.com  
-- 💼 LinkedIn: [Paulo Poças](www.linkedin.com/in/paulo-pocas-3620492b8)
+- 💼 Linkedin: [Paulo Poças](www.linkedin.com/in/paulo-pocas-3620492b8)
 
 ---
 

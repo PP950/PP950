@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Aluno de Engenharia de Software na <strong>FIAP</strong> <br>
-  📅 Atualmente no <strong>2º ano</strong> do curso <br>
+  📅 Atualmente no <strong>3º ano</strong> do curso <br>
   💻 Apaixonado por desenvolvimento e tecnologia
 </p>
 

@@ -31,14 +31,6 @@ Aplicação full-stack (Java + Spring Boot + MySQL no back-end, React no front-e
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PP950&show_icons=true&theme=default" alt="stats" />
-</p>
-
----
-
 ## 📫 Entre em contato comigo
 
 - ✉️ Email: paulopocas20@gmail.com

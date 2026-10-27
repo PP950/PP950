@@ -34,7 +34,7 @@ Aplicação full-stack (Java + Spring Boot + MySQL no back-end, React no front-e
 ## 📫 Entre em contato comigo
 
 - ✉️ Email: paulopocas20@gmail.com
-- 💼 LinkedIn: [Paulo Poças](www.linkedin.com/in/paulo-pocas)
+- 💼 LinkedIn: www.linkedin.com/in/paulo-pocas
 
 ---
 
